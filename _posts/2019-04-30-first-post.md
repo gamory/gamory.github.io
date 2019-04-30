@@ -1,7 +1,11 @@
 ---
 published: false
 ---
-## First post
+
+---
+layout: post
+title: First Post
+---
 
 Although I have a (very rudimentary) blog at my actual website (kainresearch.com), it's broken, and woefully out of date anyway.  
   
