@@ -4,12 +4,26 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm a computer guy living in South Jordan, UT.  My day job is Network Security Administrator, but i've previously also done:  
+Programming (in a few languages)  
+Help desk  
+Enterprise Operations  
+Network Administration (some, but not an expert)  
+Freelance computer repair and builds  
+  
+As far as hobbies, I enjoy getting away from the computer:  
+Wood turning  
+Making wooden and acrylic pens  
+General woodwork  
+Rudimentary metalwork  
+Rudimentary welding (MIG)  
+Playing chess poorly  
+Locksport  
+Playing with my pretty respectable synthesizer collection  
+Music production  
+  
+Feel free to contact me with questions.  
+  
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rburris@kainresearch.com](mailto:rburris@kainresearch.com)
